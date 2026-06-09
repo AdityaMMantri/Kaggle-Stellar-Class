@@ -1,1 +1,7 @@
+# cat boost folder
 catboost_info/
+# FT transformer
+.pt_tmp/
+lightning_logs/
+saved_models/
+
